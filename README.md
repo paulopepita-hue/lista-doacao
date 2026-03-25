@@ -1,5 +1,4 @@
 # lista-doacao
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -22,6 +21,7 @@
 
 <div class="container">
     <h2>🛒 Lista de Doações</h2>
+    <p style="text-align:center; color:#666;">Escreva seu nome no item que deseja doar e clique em OK.</p>
     <div id="loading">Sincronizando com a planilha...</div>
     <div id="lista-alimentos"></div>
 </div>
