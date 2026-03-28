@@ -20,7 +20,7 @@
 <body>
 
 <div class="container">
-    <img width="4959" height="1512" alt="MORADA PRETO" src="https://github.com/user-attachments/assets/bfe3d15b-4a75-4f34-a7e0-98cd00ee3643" />
+    <img width="200" height="100" alt="MORADA PRETO" src="https://github.com/user-attachments/assets/bfe3d15b-4a75-4f34-a7e0-98cd00ee3643" />
     <h2>🛒 Lista de Doações</h2>
     <p style="text-align:center; color:#666;">Escreva seu nome no item que deseja doar e clique em OK.</p>
     <div id="loading">Sincronizando com a planilha...</div>
