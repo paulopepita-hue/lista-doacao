@@ -22,7 +22,7 @@
     <div style="text-align:center;">
     <img width="200" height="80" alt="MORADA PRETO" src="https://github.com/user-attachments/assets/bfe3d15b-4a75-4f34-a7e0-98cd00ee3643" />
     </div>
-    <h2>🛒 Lista de Doações</h2>
+    <h2>🛒 Lista do Lanche EBD- 31/03/2026 </h2>
     <p style="text-align:center; color:#666;">Escreva seu nome no item que deseja doar e clique em OK.</p>
     <div id="loading">Sincronizando com a planilha...</div>
     <div id="lista-alimentos"></div>
