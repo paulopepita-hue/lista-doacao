@@ -33,15 +33,26 @@
     const URL_PLANILHA = "https://script.google.com/macros/s/AKfycbzsXwfeS4JcsXm6sjhlUcbeWlX0Ou7TItklUFG26apTZWmP8R8hkwyLclDKO9cg1Oqq/exec";
 
     const alimentos = [
-        "Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", 
-        "Feijão (1kg)", "1 Macarrão", "1 Macarrão", "1 Macarrão", 
-        "Açúcar (1kg)", "Açúcar (1kg)", "Farinha (1kg)", 
-        "Farinha de Trigo (1kg)", "GOMA (1kg)", "Flocão (1 unid)", 
-        "Flocão (1 unid)", "Bolacha (1 pacote)", "Bolacha (1 pacote)", 
-        "Macarrão Instantâneo (2 unid)", "Óleo (1 unid)", 
-        "Margarina (1 unid)", "Café (1 unid)", "Sardinha (1 unid)", 
-        "Sardinha (1 unid)", "Carne de lata (1 unid)", 
-        "Mortadela (1 unid)", "Doce (1 unid)"
+        "FLOCÃO (4 PACOTES)","CALABRESA (4 UNIDADES)","OVOS (15 UNIDADES)",
+        "OVOS (15 UNIDADES)","MAGARINA (500g)","PÃO DE LEITE (1 PACOTE)",
+        "PÃO DE LEITE (1 PACOTE)","PÃO DE LEITE (1 PACOTE)","PÃO DE LEITE (1 PACOTE)",
+        "MAIONESE (1 UNIDADE)","SALSICHA (12 UNIDADES)","TAPIOCA DE COCO (1 UNIDADE)",
+        "BOLO FOFO (1 UNIDADE)","BOLO FOFO (1 UNIDADE)","BOLO FOFO (1 UNIDADE)",
+        "BOLO FOFO (1 UNIDADE)","BOLO FOFO (1 UNIDADE)","BOLO LISO (1 UNIDADE)",
+        "BOLO LISO (1 UNIDADE)","BOLO LISO (1 UNIDADE)","BOLO LISO (1 UNIDADE)",
+        "GARRAFA DE CAFÉ (1 GARRAFA)","GARRAFA DE CAFÉ (1 GARRAFA)",
+        "GARRAFA DE CAFÉ (1 GARRAFA)","GARRAFA DE CAFÉ (1 GARRAFA)",
+        "GARRAFA DE CHÁ (1 GARRAFA)","LEITE (2 LITROS OU 2 CAIXA)",
+        "SUCO DE GOIABA (2 LITROS)","SUCO DE ACELORA (2 LITROS)",
+        //"Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", 
+        //"Feijão (1kg)", "1 Macarrão", "1 Macarrão", "1 Macarrão", 
+       // "Açúcar (1kg)", "Açúcar (1kg)", "Farinha (1kg)", 
+       // "Farinha de Trigo (1kg)", "GOMA (1kg)", "Flocão (1 unid)", 
+       // "Flocão (1 unid)", "Bolacha (1 pacote)", "Bolacha (1 pacote)", 
+       // "Macarrão Instantâneo (2 unid)", "Óleo (1 unid)", 
+       // "Margarina (1 unid)", "Café (1 unid)", "Sardinha (1 unid)", 
+        //"Sardinha (1 unid)", "Carne de lata (1 unid)", 
+        //"Mortadela (1 unid)", "Doce (1 unid)"
     ];
 
     async function carregarDados() {
