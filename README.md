@@ -33,7 +33,7 @@
     const URL_PLANILHA = "https://script.google.com/macros/s/AKfycbzsXwfeS4JcsXm6sjhlUcbeWlX0Ou7TItklUFG26apTZWmP8R8hkwyLclDKO9cg1Oqq/exec";
 
     const alimentos = [
-        "FLOCÃO (4 PACOTES)","CALABRESA (4 UNIDADES)","OVOS (15 UNIDADES)",
+        "FLOCÃO (2 PACOTES)", "FLOCÃO (1 PACOTES)", "FLOCÃO (1 PACOTES)","CALABRESA (4 UNIDADES)","OVOS (15 UNIDADES)",
         "OVOS (15 UNIDADES)","MAGARINA (500g)","MAGARINA (500g)","PÃO DE LEITE (1 PACOTE)",
         "PÃO DE LEITE (1 PACOTE)","PÃO DE LEITE (1 PACOTE)","PÃO DE LEITE (1 PACOTE)",
         "MAIONESE (1 UNIDADE)","SALSICHA (12 UNIDADES)","TAPIOCA DE COCO (1 UNIDADE)",
