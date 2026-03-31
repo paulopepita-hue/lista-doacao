@@ -45,6 +45,7 @@
         "GARRAFA DE CHÁ (1 GARRAFA)","LEITE (2 LITROS OU 2 CAIXA)",
         "SUCO DE GOIABA (2 LITROS)","SUCO DE ACELORA (2 LITROS)",
         "R$ 10,00 (REAIS)","R$ 10,00 (REAIS)","R$ 10,00 (REAIS)",
+        "R$ 10,00 (REAIS)","R$ 10,00 (REAIS)","R$ 10,00 (REAIS)",
         "R$ 10,00 (REAIS)","R$ 10,00 (REAIS)","R$ 15,00 (REAIS)",
         "R$ 15,00 (REAIS)","R$ 15,00 (REAIS)","R$ 15,00 (REAIS)",
         //"Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", "Arroz (1kg)", 
